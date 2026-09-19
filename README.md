@@ -2,7 +2,8 @@
 
 # Cryomni
 
-**3D masked autoencoding for cryo-EM density maps**
+**Cryo-EM Foundation Model Using
+Self-Supervised Learning**
 
 [Overview](#overview) · [Installation](#installation) · [Quick Start](#quick-start) · [Usage](#usage) · [Citation](#citation)
 
