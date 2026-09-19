@@ -1,9 +1,8 @@
 <div align="center">
 
-# Cryomni
+# Cryomni：Cryo-EM Foundation Model Using
+Self-Supervised Learning
 
-**Cryo-EM Foundation Model Using
-Self-Supervised Learning**
 
 [Overview](#overview) · [Installation](#installation) · [Quick Start](#quick-start) · [Usage](#usage) · [Citation](#citation)
 
