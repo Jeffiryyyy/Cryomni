@@ -25,7 +25,7 @@ The inference workflow consists of:
 ```text
 Cryomni/
 ├── checkpoint/
-│   └── Cryomni.pt              # Pretrained weights; excluded from Git
+│   └── Cryomni.pt              # Pretrained weights
 ├── configs/
 │   └── config.json             # Model configuration
 ├── cryomni/
@@ -72,7 +72,7 @@ Place the pretrained checkpoint at:
 checkpoint/Cryomni.pt
 ```
 
-The local checkpoint is approximately 6.8 GB. Weight files are excluded from Git by `.gitignore`, so cloning the code does not include them. A public download link has not yet been added.
+The pretrained checkpoint is available on [Hugging Face](https://huggingface.co/Jeffiry/Cryomni_pretrain/tree/main).
 
 The default model configuration is [`configs/config.json`](configs/config.json). Use the configuration matching your checkpoint. For weights stored elsewhere, specify `--checkpoint /path/to/Cryomni.pt`.
 
